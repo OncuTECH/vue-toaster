@@ -196,8 +196,8 @@ export default {
 }
 </script>
 <style lang="stylus">
-@import './themes/default/index.styl'
+@import './themes/default/index.styl';
 .v--default-css
-  @import './themes/default/colors.styl'
-  @import './themes/default/toast.styl'
+  @import './themes/default/colors.styl';
+  @import './themes/default/toast.styl';
 </style>
